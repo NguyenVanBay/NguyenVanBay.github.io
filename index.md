@@ -2,7 +2,8 @@
 layout: cv
 title: bay's CV
 ---
-# NGUYỄN VĂN BẢY :satisfied: :satisfied: :satisfied:
+# NGUYỄN VĂN BẢY
+
 Sinh viên PTIT
 
 ![GitHub Logo](https://scontent.fhan2-2.fna.fbcdn.net/v/t1.0-1/p160x160/29177254_1797718520530824_9007973121948385280_n.jpg?_nc_cat=0&oh=d5cb15cc52504e9428ea0da3fbbe09c6&oe=5B33BE71)
@@ -41,7 +42,7 @@ __Học viện công nghệ bưu chính viễn thông.__
 
 Không có.
 
-## Sở thích :scream: :scream: :scream:
+## Sở thích
 
 - [x] Chơi game
 - [ ] Học bài
@@ -49,13 +50,6 @@ Không có.
 - [ ] Chạy bộ
 - [x] Màu xanh lá
 
-## Điểm 3 kì gần nhất
-
-Toán | Văn | Anh
----- | --- | --- 
-6 | 7 | 8
-1 | 2 | 3
-8 | 9 | 10
 ## Bài đăng được lên báo
 
 Không có.
