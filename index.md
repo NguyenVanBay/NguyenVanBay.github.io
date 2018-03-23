@@ -20,7 +20,7 @@ TTS VNP
 
 Chuyên ngành công nghệ thông tin
 
-### Lợi ích nghiên cứu
+### Mục tiêu nghiên cứu
 
 Ngyên cứu makedown.
 
