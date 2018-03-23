@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: NGUYỄN VĂN BẢY's CV
+title: bay's CV
 ---
 # NGUYỄN VĂN BẢY
 Sinh viên PTIT
