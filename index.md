@@ -2,13 +2,12 @@
 layout: cv
 title: bay's CV
 ---
-# NGUYỄN VĂN BẢY
+# NGUYỄN VĂN BẢY :satisfied: :satisfied: :satisfied:
 Sinh viên PTIT
 
-<div id="webaddress">
-  <a href="https://vi.wikipedia.org/wiki/Nguy%E1%BB%85n_V%C4%83n_B%E1%BA%A3y_(A)">Nguyễn Văn Bảy</a>
-</div>
+![GitHub Logo](https://scontent.fhan2-2.fna.fbcdn.net/v/t1.0-1/p160x160/29177254_1797718520530824_9007973121948385280_n.jpg?_nc_cat=0&oh=d5cb15cc52504e9428ea0da3fbbe09c6&oe=5B33BE71)
 
+[Nguyễn Văn Bảy](https://vi.wikipedia.org/wiki/Nguy%E1%BB%85n_V%C4%83n_B%E1%BA%A3y_(A))
 
 ## Hiện tại
 
@@ -23,7 +22,6 @@ Chuyên ngành công nghệ thông tin
 ### Mục tiêu nghiên cứu
 
 Ngyên cứu makedown.
-
 
 ## Trường học
 
@@ -43,6 +41,21 @@ __Học viện công nghệ bưu chính viễn thông.__
 
 Không có.
 
+## Sở thích :scream: :scream: :scream:
+
+- [x] Chơi game
+- [ ] Học bài
+- [ ] Đá bóng
+- [ ] Chạy bộ
+- [x] Màu xanh lá
+
+## Điểm 3 kì gần nhất
+
+Toán | Văn | Anh
+---- | --- | --- 
+6 | 7 | 8
+1 | 2 | 3
+8 | 9 | 10
 ## Bài đăng được lên báo
 
 Không có.
