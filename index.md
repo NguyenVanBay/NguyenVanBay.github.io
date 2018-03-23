@@ -6,14 +6,14 @@ title: bay's CV
 Sinh viên PTIT
 
 <div id="webaddress">
-<a href="">isaac@applesdofall.org</a>
-| <a href="https://vi.wikipedia.org/wiki/Nguy%E1%BB%85n_V%C4%83n_B%E1%BA%A3y_(A)">Nguyễn Văn Bảy</a>
+  <a href="https://vi.wikipedia.org/wiki/Nguy%E1%BB%85n_V%C4%83n_B%E1%BA%A3y_(A)">Nguyễn Văn Bảy</a>
 </div>
 
 
 ## Hiện tại
 
 Sinh viên năm 3 PTIT
+
 TTS VNP
 
 ### Chuyên ngành
